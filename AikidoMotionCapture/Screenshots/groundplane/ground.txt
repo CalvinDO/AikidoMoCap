@@ -1,0 +1,1 @@
+cs200 19mm + matte 20 mm = 39 mm Vertical offset ground plane callibration square
